@@ -1,3 +1,3 @@
 # PGP Test
 
-> Let's sign some git commits 🤷‍♂️
+Did you know you can sign git commits?!
