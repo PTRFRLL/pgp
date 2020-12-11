@@ -1,5 +1,7 @@
 # Sign Commits With PGP
 
+or is it [GPG...](https://askubuntu.com/questions/186805/difference-between-pgp-and-gpg)
+
 Did you know you can sign git commits?!
 
 ![Example](example/cap.png)
