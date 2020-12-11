@@ -1,4 +1,4 @@
-# PGP Test
+# Sign Commits With PGP
 
 Did you know you can sign git commits?!
 
